@@ -1,0 +1,6 @@
+[submodule "parlaylib"]
+	path = parlaylib
+	url = https://github.com/cmuparlay/parlaylib.git
+[submodule "tlx"]
+	path = tlx
+	url = https://github.com/tlx/tlx.git
